@@ -39,3 +39,6 @@
 
 ### The Script 12-file_type:
 - script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+
+### The Script 13-symbolic_link:
+- Create a symbolic link to /bin/ls, named __ls__.
