@@ -20,7 +20,7 @@
 - And hidden files (starting with .)
 
 ### The Script 6-firstdirectory:
-creates a directory named my_first_directory in the /tmp/ directory.
+- creates a directory named my_first_directory in the /tmp/ directory.
 
 ### The Script 7-movethatfile:
 - Move the file betty from /tmp/ to /tmp/my_first_directory.
@@ -36,3 +36,6 @@ creates a directory named my_first_directory in the /tmp/ directory.
 
 ### The Script 11-lists:
 - script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+
+### The Script 12-file_type:
+- script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
