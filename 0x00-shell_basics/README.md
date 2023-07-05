@@ -9,3 +9,6 @@
 
 ## The Script 3-listfiles:
 - Display current directory contents in a long format using the `ls -l` command.
+
+## The Script 4-listmorefiles:
+- Display current directory contents, including hidden files (starting with .). Use the long format using `ls -la`.
