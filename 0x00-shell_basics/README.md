@@ -18,3 +18,6 @@
 - Long format
 - with user and group IDs displayed numerically
 - And hidden files (starting with .)
+
+## The Script 6-firstdirectory:
+creates a directory named my_first_directory in the /tmp/ directory.
