@@ -28,3 +28,5 @@ creates a directory named my_first_directory in the /tmp/ directory.
 ### The Script 8-firstdelete:
 - Delete the file betty.
 
+### The Script 9-firstdirdeletion:
+- Delete the directory my_first_directory that is in the /tmp directory.
