@@ -24,3 +24,7 @@ creates a directory named my_first_directory in the /tmp/ directory.
 
 ### The Script 7-movethatfile:
 - Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+### The Script 8-firstdelete:
+- Delete the file betty.
+
