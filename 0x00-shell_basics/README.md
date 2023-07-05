@@ -3,3 +3,6 @@
 
 ### The Script 1-listit:
 - Display the contents list of your current directory using the `ls` command.
+
+### The Script 2-bring_me_home:
+- it is a script that changes the working directory to the user’s home directory using the `cd ~` command.
