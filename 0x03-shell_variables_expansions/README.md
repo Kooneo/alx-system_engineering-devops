@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions
+This is a task on shell, init files,variables and expansions
